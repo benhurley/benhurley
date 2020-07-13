@@ -1,10 +1,10 @@
-### Hey Friends 👋
+### Hi Friends 👋
 
 <!--
 **benhurley/benhurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-Here you can find thee personal projects I tinker around with (some old, some new). Here's a snapshot of current events:
+Here you can find the personal projects I tinker around with (some old, some new). Here's a snapshot of current events:
 
 - 🔭 I’m currently working on deepending my knowledge of javascript and React. I'm also brushing up on previous AWS expertise. 
 - 🌱 I’m currently learning how best to use React Hooks in a large, enterprise settings. 
