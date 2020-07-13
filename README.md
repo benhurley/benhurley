@@ -1,7 +1,8 @@
 ### Hey Friends 👋
 
 <!--
-**benhurley/benhurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**benhurley/benhurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
 Here you can find some of my personal projects (some old, some new). Here's a snapshot of current events:
 
@@ -11,4 +12,4 @@ Here you can find some of my personal projects (some old, some new). Here's a sn
 - 💬 Ask me about git and I'll teach you some fun and helpful tips/tricks.
 - 📫 How to reach me: benfromtech@gmail.com
 - ⚡ Fun fact: My first computer was a 1998 Gateway PC (running Windows 98, of course). What wwas yours? 
--->
+
