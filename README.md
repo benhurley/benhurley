@@ -6,7 +6,7 @@
 
 Here you can find the personal projects I tinker around with (some old, some new). Here's a snapshot of current events:
 
-- 🔭 I’m currently working on sharpening my Javascript and React skills. I'm also brushing up on previous AWS expertise. 
+- 🔭 I’m currently working on sharpening my Javascript and Python skills. I'm also brushing up on previous AWS expertise. 
 - 🌱 I’m currently learning how best to use React Hooks in a large, enterprise setting. 
 - 👯 I’m looking to collaborate on a fun side-project, especially using Flask or React. 
 - 💬 Ask me about git and I'll teach you some fun and helpful tips/tricks.
