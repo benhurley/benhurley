@@ -6,8 +6,7 @@
 
 Here you can find the personal projects I tinker around with (some old, some new). Here's a snapshot of current events:
 
-- 🔭 I’m currently sharpening my Javascript and Python skills.
-- 🌱 I just started a food-delivery-related side project: https://github.com/benhurley/restaurant-at-home
+- 🌱 My friend and I just started an open source project to impove the at-home dining exprience: https://github.com/benhurley/restaurant-at-home
 - 💬 Ask me about git and I'll teach you some fun and helpful tips/tricks.
 - 📫 How to reach me: benfromtech@gmail.com
 - ⚡ Fun fact: My first computer was a 1998 Gateway PC (running Windows 98, of course). What was yours? 
