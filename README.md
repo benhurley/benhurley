@@ -4,10 +4,8 @@
 **benhurley/benhurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-Here you can find the personal projects I tinker around with (some old, some new). Here's a snapshot of current events:
+A little bit about me...
 
-- 🌱 Co-creator of [NYC Restaurant Info](https://github.com/benhurley/food-feels) (a website to provide near-real-time NYC restaurant statuses during Covid-19).
-- 💬 Ask me about git and I'll teach you some fun and helpful tips/tricks.
-- 📫 How to reach me: benfromtech@gmail.com
-- ⚡ Fun fact: My first computer was a 1998 Gateway PC (running Windows 98, of course).
-
+- :keyboard: &nbsp; I work at [Daily Harvest](https://www.dailyharvest.com)
+- :seedling: &nbsp; [My friend](https://github.com/EricNatelson) and I made [NYC Restaurant Info](https://nycrestaurant.info) because Google's NYC restaurant data doesn't update fast enough. [Here's the code](https://github.com/benhurley/nyc-restaurant-info).
+- :zap: &nbsp; Fun fact: My first computer was a 1998 Gateway PC (running Windows 98, of course).
