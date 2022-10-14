@@ -2,7 +2,7 @@
 **benhurley/benhurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-:keyboard: Senior Software engineer at [Daily Harvest](https://www.dailyharvest.com).
+Senior Software engineer at [Daily Harvest](https://www.dailyharvest.com).
 
 Personal Projects:
 - [Unchained API](https://app.unchained.fyi/) - Query NEAR RPC data using familiar SQL Syntax.
